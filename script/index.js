@@ -63,10 +63,3 @@ function validUser(username) {
 */
 
 
-
-/*
-
-    index page
-
-*/
-
