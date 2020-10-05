@@ -1,0 +1,20 @@
+{
+    "Users":
+    [
+        {
+            "username":"alba054",
+            "password":"123456",
+            "nickname":"alsey"
+        },
+        {
+            "username":"san",
+            "password":"excalibur",
+            "nickname":"san.gozaru"
+        },
+        {
+            "username":"YoYo101",
+            "password":"123456",
+            "nickname":"alsey01"
+        }
+    ]
+}
