@@ -1,0 +1,28 @@
+body {
+    background-image: url(../image/17bc850e59ba8b3860f20dcedf572e7b.png);
+    background-size: cover;
+}
+
+.container {
+    /* width: fit-content; */
+    background-color: #ffffff;
+    box-shadow: 10px 10px 8px #888888;
+    border-radius: 10%;
+    width: 60%;
+    margin-top: 80px;
+    /* margin-top: 350px; */
+    height: 80%;
+}
+
+.col-md:first-child {
+    padding: 80px;
+}
+
+.img-cover {
+    background-image: url(../image/obi-onyeador-jP_aaR1wanE-unsplash.jpg);
+    background-size: cover;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-position: center;
+    height: 500px;
+}
