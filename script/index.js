@@ -19,7 +19,7 @@ login_btn.addEventListener("click", (e) => {
     if(user.length > 0) {
         if(user[0].password == password) {
             localStorage.setItem("nickname", user[0].nickname);
-            open('index.html', "_self");
+            open('home.html', "_self");
         }
         else {
             // alert("Password salah");
