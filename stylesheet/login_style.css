@@ -7,22 +7,34 @@ body {
     /* width: fit-content; */
     background-color: #ffffff;
     box-shadow: 10px 10px 8px #888888;
-    border-radius: 10%;
-    width: 60%;
-    margin-top: 80px;
+    border-radius: 5%;
+    width: 50%;
+    margin-top: 70px;
     /* margin-top: 350px; */
-    height: 80%;
+    height: 550px;
 }
 
-.col-md:first-child {
+/* .col-md-6:last-child {
     padding: 80px;
-}
+} */
 
 .img-cover {
     background-image: url(../image/obi-onyeador-jP_aaR1wanE-unsplash.jpg);
     background-size: cover;
-    border-top-right-radius: 10%;
-    border-bottom-right-radius: 10%;
+    border-radius: 10%;
     background-position: center;
-    height: 500px;
+    height: 250px;
 }
+
+.form-control {
+    width: 300px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: solid;
+    background-color: rgba(238, 238, 238, 0.11);
+  }
+  
+  .modal {
+    margin-top: 80px;
+  }
